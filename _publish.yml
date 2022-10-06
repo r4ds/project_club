@@ -1,0 +1,4 @@
+- source: project_club.qmd
+  quarto-pub:
+    - id: 9759dd24-491f-4874-991b-1d5dbce8f96f
+      url: 'https://quartopub.com/sites/r4ds/project_club0101'
